@@ -2,7 +2,7 @@ import React from 'react';
 
 const Default = props => {
     return (
-        <div>Default</div>
+        <div>Default, for the Push</div>
     )
 
 }
